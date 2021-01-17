@@ -112,7 +112,7 @@ int main(int argc, char **argv) {
 						case SDLK_SPACE:
 							if (!started_pathfinding && created_start && created_end && resetted) {
 								started_pathfinding = true;
-
+								//PATHFINDING ALGO START
 								for (auto& row : grid) {
 									for (auto& node : row) {
 										node.UpdateNeighbors(grid);
@@ -170,6 +170,7 @@ int main(int argc, char **argv) {
 
 								started_pathfinding = false;
 								resetted = false;
+								//PATHFINDING ALGO END
 							} 
 							break;
 						case SDLK_c:
