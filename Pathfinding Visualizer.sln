@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pathfinding Visualizer", "Pathfinding Visualizer\Pathfinding Visualizer.vcxproj", "{FAE99CE4-1699-4F46-8FAB-C6477D325817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE99CE4-1699-4F46-8FAB-C6477D325817}.Debug|x64.ActiveCfg = Debug|x64
+		{FAE99CE4-1699-4F46-8FAB-C6477D325817}.Debug|x64.Build.0 = Debug|x64
+		{FAE99CE4-1699-4F46-8FAB-C6477D325817}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAE99CE4-1699-4F46-8FAB-C6477D325817}.Debug|x86.Build.0 = Debug|Win32
+		{FAE99CE4-1699-4F46-8FAB-C6477D325817}.Release|x64.ActiveCfg = Release|x64
+		{FAE99CE4-1699-4F46-8FAB-C6477D325817}.Release|x64.Build.0 = Release|x64
+		{FAE99CE4-1699-4F46-8FAB-C6477D325817}.Release|x86.ActiveCfg = Release|Win32
+		{FAE99CE4-1699-4F46-8FAB-C6477D325817}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B9D0BA5-297D-43C0-A511-110B0677DE14}
+	EndGlobalSection
+EndGlobal
