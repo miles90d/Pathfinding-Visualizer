@@ -1,8 +1,5 @@
 # Pathfinding-Visualizer
-Dijkstra's algorithm visualization.
-
-Resources:
-https://www.youtube.com/watch?v=JtiK0DOeI4A and https://en.wikipedia.org/wiki/A*_search_algorithm (It's intentional I swear)
+BFS Shortest Path
 
 *Left click to create start and end node, after that you can created obstacles. 
 
