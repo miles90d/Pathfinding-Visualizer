@@ -114,7 +114,6 @@ int main(int argc, char **argv) {
 								std::map<Grid::Node*, Grid::Node *> came_from;
 								for (auto& row : grid) {
 									for (auto& node : row) {
-										came_from[&node] = nullptr;
 										visited[&node] = false;
 										node.UpdateNeighbors(grid);
 									}
